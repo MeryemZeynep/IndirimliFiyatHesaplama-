@@ -1,0 +1,8 @@
+C:\Users\90532\source\repos\IndirimliFiyatHesaplama\obj\Debug\IndirimliFiyatHesaplama.csproj.AssemblyReference.cache
+C:\Users\90532\source\repos\IndirimliFiyatHesaplama\obj\Debug\IndirimliFiyatHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\90532\source\repos\IndirimliFiyatHesaplama\obj\Debug\IndirimliFiyatHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\90532\source\repos\IndirimliFiyatHesaplama\bin\Debug\IndirimliFiyatHesaplama.exe.config
+C:\Users\90532\source\repos\IndirimliFiyatHesaplama\bin\Debug\IndirimliFiyatHesaplama.exe
+C:\Users\90532\source\repos\IndirimliFiyatHesaplama\bin\Debug\IndirimliFiyatHesaplama.pdb
+C:\Users\90532\source\repos\IndirimliFiyatHesaplama\obj\Debug\IndirimliFiyatHesaplama.exe
+C:\Users\90532\source\repos\IndirimliFiyatHesaplama\obj\Debug\IndirimliFiyatHesaplama.pdb
